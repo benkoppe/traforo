@@ -13,7 +13,7 @@
   "migrations": [
     {
       "tag": "v1",
-      "new_classes": ["Tunnel"]
+      "new_sqlite_classes": ["Tunnel"]
     }
   ],
   "routes": [
