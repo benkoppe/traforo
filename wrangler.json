@@ -16,16 +16,6 @@
       "new_sqlite_classes": ["Tunnel"]
     }
   ],
-  "routes": [
-    {
-      "pattern": "*-tunnel.traforo.dev/*",
-      "zone_name": "traforo.dev"
-    },
-    {
-      "pattern": "*-tunnel.kimaki.xyz/*",
-      "zone_name": "kimaki.xyz"
-    }
-  ],
   "env": {
     "preview": {
       "durable_objects": {
